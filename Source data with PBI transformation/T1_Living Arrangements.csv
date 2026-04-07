@@ -1,0 +1,19 @@
+Index,Disability_Type,Living arrangements,Headcount
+1,Profound or severe core activity limitation,Alone - Living in households,140.7
+2,Moderate or mild core activity limitation,Alone - Living in households,256.7
+3,Schooling or employment restriction,Alone - Living in households,363.3
+4,All with specific limitations or restrictions,Alone - Living in households,456.4
+5,All with reported disability,Alone - Living in households,547
+6,No reported disability,Alone - Living in households,1132.3
+1,Profound or severe core activity limitation,With others - Living in households,627.5
+2,Moderate or mild core activity limitation,With others - Living in households,869.8
+3,Schooling or employment restriction,With others - Living in households,1346.3
+4,All with specific limitations or restrictions,With others - Living in households,1765.1
+5,All with reported disability,With others - Living in households,2120.9
+6,No reported disability,With others - Living in households,12725.7
+1,Profound or severe core activity limitation,Living in cared-accommodation,7.3
+2,Moderate or mild core activity limitation,Living in cared-accommodation,0.5
+3,Schooling or employment restriction,Living in cared-accommodation,0
+4,All with specific limitations or restrictions,Living in cared-accommodation,7.8
+5,All with reported disability,Living in cared-accommodation,8.6
+6,No reported disability,Living in cared-accommodation,1.3
